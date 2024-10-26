@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+langchain-community
+langsmith
+neo4j
+python-dotenv
