@@ -1,3 +1,4 @@
 .env
 ven/
-
+.talismanrc
+__pycache__/

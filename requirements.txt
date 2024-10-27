@@ -1,6 +1,8 @@
-langchain
-langchain-google-genai
-langchain-community
-langsmith
-neo4j
-python-dotenv
+langchain==0.2.15
+langchain-core==0.2.35
+langchain-community==0.2.1
+langsmith==0.1.137
+neo4j==5.25.0
+python-dotenv==1.0.1
+chainlit==1.3.1
+langchain-openai==0.1.8
